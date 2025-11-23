@@ -1,7 +1,7 @@
 
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Riya"
+title                    : "Riya's homepage"
 title_separator          : "-"
 name                     : &name "Riya Ponraj"
 description              : &description "Ph.D. Student • ML-driven Internet Measurement • Submarine Cable Inference"   # Update this with a general description of your site, this is the default if not overridden by a page
